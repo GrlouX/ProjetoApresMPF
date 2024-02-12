@@ -1,7 +1,7 @@
 ## Projeto Atua MPF
 
 O objetivo é apresentar uma interface simples para que qualquer cidadão possa conhecer os principais intrumentos de atuação do Ministério Público Federal (MPF) no Brasil, 
-além de consultar os procedimentos cadastrados na base de dados do órgão e disponibilizados para acesso público.
+além de consultar os procedimentos que foram cadastrados na base de dados do órgão e disponibilizados para acesso público.
 
 ### Fonte
 
