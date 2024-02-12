@@ -1,0 +1,12 @@
+name: atuaMPF
+title: atuaMPF
+username: graci-lour3
+account: graci-lour3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11194870
+bundleId: 8243663
+url: https://graci-lour3.shinyapps.io/atuaMPF/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
