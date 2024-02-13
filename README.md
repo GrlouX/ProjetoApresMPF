@@ -14,3 +14,7 @@ Essa ação possibilita visualizar uma descrição das atividades-fim selecionad
 Além disso, é possível salvar uma captura de tela em um arquivo no formato PNG com as informações escolhidas por meio do botão "Salvar informações". Segue abaixo uma demonstração: 
 
 ![apresAtuaMPF.gif](https://github.com/GrlouX/ProjetoAtuaMPF/assets/90117229/25545e19-1801-476d-b83d-8dd92730ddae)
+
+### Acesso
+
+A aplicação pode ser acessada em um dos seguintes links: https://graci-lour3.shinyapps.io/atuaMPF ou https://grloux.github.io/atuampf/
